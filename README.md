@@ -1,4 +1,4 @@
 # github-workflow
 
-To improve is to change x2
+To improve is to change
 There is nothing permanent, except change
